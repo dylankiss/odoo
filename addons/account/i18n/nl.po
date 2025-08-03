@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-04 01:32+0000\n"
-"PO-Revision-Date: 2025-08-03 10:09+0000\n"
+"PO-Revision-Date: 2025-08-03 10:18+0000\n"
 "Last-Translator: \"Dylan Kiss (dyki)\" <dyki@odoo.com>\n"
 "Language-Team: Dutch <https://translate.odoo.com/projects/odoo-16/account/nl/"
 ">\n"
@@ -355,7 +355,7 @@ msgstr "2/7 netto 30"
 #. module: account
 #: model:account.payment.term,name:account.account_payment_term_21days
 msgid "21 Days"
-msgstr "21 dagen"
+msgstr "21 dagen TEST ULTIMATE"
 
 #. module: account
 #: model:account.payment.term,name:account.account_payment_term_30days
