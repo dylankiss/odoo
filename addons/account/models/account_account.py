@@ -24,6 +24,7 @@ class AccountAccount(models.Model):
 
     @api.constrains('account_type')
     def _check_account_type_unique_current_year_earning(self):
+        # An unrelated change
         result = self._read_group(
             domain=[('account_type', '=', 'equity_unaffected')],
             fields=['company_id', 'ids:array_agg(id)'],
