@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* account
-# 
+# * account
+#
 # Translators:
 # Thomas Pot <thomas@open2bizz.nl>, 2022
 # Gunther Clauwaert <gclauwae@hotmail.com>, 2022
@@ -13,13 +13,13 @@
 # Erwin van der Ploeg <erwin@odooexperts.nl>, 2025
 # Manon Rondou, 2025
 # Wil Odoo, 2025
-# 
+# "Dylan Kiss (dyki)" <dyki@odoo.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-04 01:32+0000\n"
-"PO-Revision-Date: 2025-08-03 10:18+0000\n"
+"PO-Revision-Date: 2025-08-06 11:31+0000\n"
 "Last-Translator: \"Dylan Kiss (dyki)\" <dyki@odoo.com>\n"
 "Language-Team: Dutch <https://translate.odoo.com/projects/odoo-16/account/nl/"
 ">\n"
@@ -2701,7 +2701,7 @@ msgstr ""
 #: code:addons/account/models/account_move.py:0
 #, python-format
 msgid "An error has occurred."
-msgstr "Er heeft zich een fout voorgedaan"
+msgstr "Er heeft zich een fout voorgedaan."
 
 #. module: account
 #. odoo-python
