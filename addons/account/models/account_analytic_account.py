@@ -15,6 +15,8 @@ class AccountAnalyticAccount(models.Model):
         compute='_compute_vendor_bill_count',
     )
 
+    # A random change that is totally not needed!
+
     debit = fields.Monetary(groups='account.group_account_readonly')
     credit = fields.Monetary(groups='account.group_account_readonly')
 
